@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"uni-swiper-tab{ border-bottom: ",[0,1]," solid #eee; }\n.",[1],"swiper-tab-list{ color: #969696; font-weight: bold; }\n.",[1],"uni-swiper-tab .",[1],"active{ color: #343434; }\n.",[1],"active .",[1],"tab-list-line{ border-bottom: ",[0,6]," solid #fede33; width: ",[0,70],"; margin: auto; border-top: ",[0,6]," solid #fede33; border-radius: ",[0,20],"; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));

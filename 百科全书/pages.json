@@ -63,25 +63,25 @@
 				"pagePath":"pages/index/index",
 				"text":"百事",
 				"iconPath":"static/images/首页.png",
-				"selectedIconPath":"static/images/首页%20(1).png"
+				"selectedIconPath":"static/images/首页1.png"
 			},
 			{
 				"pagePath":"pages/news/news",
 				"text":"动态",
 				"iconPath":"static/images/资讯动态.png",
-				"selectedIconPath":"static/images/资讯动态%20(1).png"
+				"selectedIconPath":"static/images/资讯动态1.png"
 			},
 			{
 				"pagePath":"pages/paper/paper",
 				"text":"小纸条",
 				"iconPath":"static/images/聊天.png",
-				"selectedIconPath":"static/images/聊天%20(1).png"
+				"selectedIconPath":"static/images/聊天1.png"
 			},
 			{
 				"pagePath":"pages/home/home",
 				"text":"我的",
 				"iconPath":"static/images/我的.png",
-				"selectedIconPath":"static/images/我的%20(1).png"
+				"selectedIconPath":"static/images/我的1.png"
 			}
 		]
 	},
